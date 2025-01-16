@@ -1,5 +1,5 @@
 # 💫 Hi I'm Nuttanicha:
-🔭 I’m currently working on SOFTWARE DEVELOPER/FRONT-END DEVELOPER/FullStack Developer.<br>👯 Studied Computer Engineering at Khonkaen University, Thailand.<br>🌱 I’m currently learning FLUTTER.
+🔭 I’m currently working on SOFTWARE DEVELOPER/FULL STACK Developer.<br>👯 Studied Computer Engineering at Khonkaen University, Thailand.<br>🌱 I’m currently learning FLUTTER.
 
 
 # 💻 Tech Stack:
