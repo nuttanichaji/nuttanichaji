@@ -1,5 +1,5 @@
 # 💫 Hi I'm Nuttanicha:
-🔭 I’m currently working on SOFTWARE DEVELOPER/FULL STACK Developer.<br>👯 Studied Computer Engineering at Khonkaen University, Thailand.<br>🌱 I’m currently learning FLUTTER.
+🔭 I’m currently working on SOFTWARE DEVELOPER/FULL STACK Developer.<br>👯 Studied Computer Engineering at Khonkaen University, Thailand.<br>🌱 I’m currently learning RUST.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nuttanicha-jirapisitkul-663457237) 
